@@ -40,7 +40,7 @@ arraynum.forEach((element)=>{
   });
   console.log(sumelement);
 
-  console.log(`The only even indexed array value`);
+  console.log(`6.The only even indexed array value`);
   arraynum.forEach((element,index)=>{
     if (index%2==0) {
         console.log(index,element); 

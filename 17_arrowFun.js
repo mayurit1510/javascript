@@ -18,7 +18,7 @@ let multiplication = (num1, num2,num3=1) => {
  multiplication(5,5);
 
 
-console.log(`Arrow function with arguments and return value`);
+console.log(`3.Arrow function with arguments and return value`);
 let add = (num1, num2,num3,num4) => {
     let result = num1 + num2+ num3+num4;
     return result;
